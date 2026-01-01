@@ -1,0 +1,9 @@
+{
+    "sniff_if":{
+        "ifname":"eth2"
+    },
+    "egress_if":{
+        "ifname":"eth1",
+        "dst_mac":"00:16:3e:4d:ac:f1"
+    }
+}
